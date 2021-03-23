@@ -1,0 +1,20 @@
+{
+  "title": "Image Mission",
+  "description": "You will learn how to upload an image using the Cloudinary API",
+  "events": "image_mission/events.js",
+  "default_map": "image_mission/default.json",
+  "mission_icon": "mission_icon.png",
+  "is_mission": true,
+  "priority": 1,
+  "backgroundMusic": "hackertheme_104771b",
+  "backgroundEffect": {
+    "key": "vr",
+    "options": {}
+  },
+  "flavorTextOverrides": {
+    "bookshelf": "There's nothing like a good book."
+  },
+  "objectives": [
+    "image_mission/example_objective"
+  ]
+}
